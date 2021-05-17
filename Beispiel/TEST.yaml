@@ -1,0 +1,84 @@
+"name": "SNOMED"
+"title":
+  "en": "SNOMED Ontology"
+"description":
+  "en": "Search for SNOMED CT concept or SCTID"
+"attributes": {}
+"author": "SNOMED International"
+"keywords": {}
+"license": "Member"
+"vocabularies":
+- "name": "observable entity"
+  "title":
+    "en": "Observable entity"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "424144002"
+    "title":
+      "en": "Current chronological age"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224130005"
+    "title":
+      "en": "Household composition"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "870552008"
+    "title":
+      "en": "Health literacy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "finding"
+  "title":
+    "en": "Finding"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "224134001"
+    "title":
+      "en": "Lives with children"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "situation"
+  "title":
+    "en": "Situation"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "292508471000119000"
+    "title":
+      "en": "History of disease caused by Severe acute respiratory syndrome coronavirus 2 "
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []  
+- "name": "event"
+  "title":
+    "en": "Event"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "702547000"
+    "title":
+      "en": "Exposure to coronavirus infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []

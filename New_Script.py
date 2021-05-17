@@ -1,39 +1,51 @@
 import pandas as pd
 from styleframe import StyleFrame, Styler
 from csv2yaml import csv2yaml
+import numpy as np
 
 # Value 1 = Excel File | Value 2 = CSV File + YAML
-mode = 2
+mode = 1
 
-# Excel File
-excel_file = pd.read_excel("Probe_Python_SHIP.xlsx",
+# Read Excel File
+# excel_file = pd.read_excel("Probe_Python_SHIP.xlsx",
+#                           dtype=str)
+
+excel_file = pd.read_excel("asd.xlsx",
                            dtype=str)
 
-# Copy the value in between the parenthesis to the column "Semantic_Tag"
-excel_file["Semantic_Tag"] = excel_file["FSN"].str.replace(r'[^(]*\(|\)[^)]*', '', regex=True).str.strip()
+# Variable for the columns that starts with FSN
+FSN_Columns = excel_file.filter(regex=f"FSN.*").columns
 
-# DROP
-excel_file.dropna(subset=["Semantic_Tag"], inplace=True)
-excel_file["Semantic_Tag"] = excel_file["Semantic_Tag"].apply(
-    lambda x: x.replace(" ", "_").strip() if len(x.strip().split(" ")) > 1 else x.strip())
+# Copy the value in between the parenthesis to the column "Semantic_Tag_X"
+for column in FSN_Columns:
+    index = column.split("_")[1]
+    # Copy the Semantic tag from the FSN to Semantic_Tag_X column
+    excel_file[f"Semantic_Tag_{index}"] = excel_file[f"FSN_{index}"].str.replace(r'[^(]*\(|\)[^)]*', '',
+                                                                                 regex=True).str.strip()
+    # Replace empty spaces with _
+    excel_file[f"Semantic_Tag_{index}"] = excel_file[f"Semantic_Tag_{index}"].str.replace(" ", "_").str.strip()
+    # Remove the parenthesis + value from FSN_Columns
+    excel_file[column] = excel_file[column].str.replace(r'\([^)]*\)', '', regex=True).str.strip()
 
-# Remove the parenthesis + value
-excel_file["FSN"] = excel_file["FSN"].str.replace(r'\([^)]*\)', '', regex=True).str.strip()
-
-
-# Drop duplicates from the column FSN
-excel_file.drop_duplicates(subset=["FSN"], inplace=True)
+# Variable for the columns that starts with FSN
+Semantic_Tag_Columns = excel_file.filter(regex=f"Semantic_Tag.*").columns.to_list()
 
 # List all unique tags
-semantic_tags = excel_file["Semantic_Tag"].unique()
+semantic_tags = pd.unique(excel_file[Semantic_Tag_Columns].values.ravel())
 
 # Create the SNOMED columns using this format: "SNOMED::{Semantic_Tag}" and map the SCTID
 for tag in range(len(semantic_tags)):
-    m = excel_file['Semantic_Tag'] == semantic_tags[tag]
-    excel_file.loc[m, f'SNOMED::{semantic_tags[tag]}'] = excel_file.loc[m, 'SCTID']
+    for column in Semantic_Tag_Columns:
+        m = excel_file[column] == semantic_tags[tag]
+        if m.any():
+            index = column.split("_")[2]
+            excel_file.loc[m, f'SNOMED::{semantic_tags[tag]}'] = excel_file.loc[m, f'SCTID_{index}']
 
 if mode == 1:
     # Write to Excel file
+    SCTID_Columns = excel_file.filter(regex=f"SCTID.*").columns
+    all_list = SCTID_Columns.to_list() + Semantic_Tag_Columns + FSN_Columns.to_list()
+    excel_file = excel_file.drop(columns=all_list)
     col_list = excel_file.columns.tolist()
     excel_writer = StyleFrame.ExcelWriter('output.xlsx')
     sf = StyleFrame(excel_file)

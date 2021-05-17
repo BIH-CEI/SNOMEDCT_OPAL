@@ -12,6 +12,25 @@ class csv2yaml:
                                        dtype=str,
                                        encoding='ISO-8859-1',
                                        sep=";")
+        print(self.snomed_data)
+        SCTID_Columns = self.snomed_data.filter(regex=f"SCTID.*").columns.to_list()
+        Semantic_Tag_Columns = self.snomed_data.filter(regex=f"Semantic_Tag.*").columns.to_list()
+        FSN_Columns = self.snomed_data.filter(regex=f"FSN.*").columns.to_list()
+        all_list = SCTID_Columns + Semantic_Tag_Columns + FSN_Columns
+        self.snomed_data.drop(self.snomed_data.columns.difference(all_list), 1, inplace=True)
+        dataframes = []
+        for tag in FSN_Columns:
+            index = tag.split("_")[1]
+            df = self.snomed_data[[f"SCTID_{index}", f"FSN_{index}", f"Semantic_Tag_{index}"]]
+            df = df.dropna()
+            df.columns = ["SCTID", "FSN", "Semantic_Tag"]
+            print("asd")
+            dataframes.append(df)
+
+        print(dataframes)
+        df = pd.concat(dataframes)
+        print(df)
+        self.snomed_data = df.drop_duplicates()
         self.write_yaml()
 
     def fill_terms(self, df):
