@@ -1,0 +1,6898 @@
+"name": "SNOMED"
+"title":
+  "en": "SNOMED Ontology"
+"description":
+  "en": "Search for SNOMED CT concept or SCTID"
+"attributes": {}
+"author": "SNOMED International"
+"keywords": {}
+"license": "Member"
+"vocabularies":
+- "name": "observable_entity"
+  "title":
+    "en": "Observable_Entity"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "424144002"
+    "title":
+      "en": "Current chronological age"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "263495000"
+    "title":
+      "en": "Gender"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "416647007"
+    "title":
+      "en": "Country of residence"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "433178008"
+    "title":
+      "en": "City of residence"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224168007"
+    "title":
+      "en": "Household income"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083007"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224130005"
+    "title":
+      "en": "Household composition"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224130006"
+    "title":
+      "en": "Household composition"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871014"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871015"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871016"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076007"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076008"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076009"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076010"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076011"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076012"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076013"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405076014"
+    "title":
+      "en": "Social support status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056001"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056002"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056003"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056004"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056005"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056006"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056007"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056008"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056009"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056010"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056011"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405056012"
+    "title":
+      "en": "Coping behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "278844005"
+    "title":
+      "en": "General clinical state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "125680007"
+    "title":
+      "en": "Marital status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "276031006"
+    "title":
+      "en": "Details of education"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224303005"
+    "title":
+      "en": "Education currently received"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224525003"
+    "title":
+      "en": "Number in household"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224249004"
+    "title":
+      "en": "Characteristics of home environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225918008"
+    "title":
+      "en": "Conversation content"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405058000"
+    "title":
+      "en": "Psychosocial adaptive behavior: life change"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "228134009"
+    "title":
+      "en": "School attendance"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "311840008"
+    "title":
+      "en": "Homework, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225598002"
+    "title":
+      "en": "Interaction with others"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224164009"
+    "title":
+      "en": "Financial circumstances"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247797001"
+    "title":
+      "en": "Level of hope"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "404950004"
+    "title":
+      "en": "Sleep behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "248263006"
+    "title":
+      "en": "Duration of sleep"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247774004"
+    "title":
+      "en": "Level of mood"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "440398005"
+    "title":
+      "en": "Level of fatigue"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "82742001"
+    "title":
+      "en": "Concentration, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2811000175101"
+    "title":
+      "en": "Hours per day watching television or videos"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2801000175104"
+    "title":
+      "en": "Hours per day playing games on a screen"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "228308009"
+    "title":
+      "en": "Pattern of drinking"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "229819007"
+    "title":
+      "en": "Tobacco use and exposure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "228390007"
+    "title":
+      "en": "Frequency of drug misuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224288002"
+    "title":
+      "en": "Duration of formal education"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "870552008"
+    "title":
+      "en": "Health literacy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086010"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086011"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086012"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086013"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086014"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086015"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086016"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086017"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086018"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086019"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086020"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086021"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086022"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086023"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086024"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086025"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086026"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086027"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086028"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086029"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086030"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086031"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086032"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086033"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086034"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086035"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086036"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464009"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464010"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464011"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464012"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464013"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464014"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464015"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464016"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225464017"
+    "title":
+      "en": "Attitude"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871006"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871007"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871008"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208005"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208006"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208007"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208008"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208009"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208010"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208011"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208012"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208013"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208014"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406208015"
+    "title":
+      "en": "Adaptation behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872004"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872005"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872006"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872007"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872008"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872009"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872010"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872011"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872012"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872013"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363872014"
+    "title":
+      "en": "Emotional state characteristics"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086008"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307086009"
+    "title":
+      "en": "Ability to analyze information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083004"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083005"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083006"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083008"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224083009"
+    "title":
+      "en": "Marital or partnership status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224167002"
+    "title":
+      "en": "Income details"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224167003"
+    "title":
+      "en": "Income details"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705009"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705010"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705011"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705012"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705013"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705014"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705015"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705016"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705017"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705018"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705019"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705020"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705021"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705022"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705023"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705024"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705025"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705026"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705027"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301705028"
+    "title":
+      "en": "Occupation and employment activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871009"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363800008"
+    "title":
+      "en": "General wellbeing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363800009"
+    "title":
+      "en": "General wellbeing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363800010"
+    "title":
+      "en": "General wellbeing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363800011"
+    "title":
+      "en": "General wellbeing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363800012"
+    "title":
+      "en": "General wellbeing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871010"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871011"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871012"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363871013"
+    "title":
+      "en": "Mental state"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "228465009"
+    "title":
+      "en": "Sexual relationship details"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "871555000"
+    "title":
+      "en": "Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus\
+        \ 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "439830001"
+    "title":
+      "en": "Behavior to prevent infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406193000"
+    "title":
+      "en": "Client satisfaction"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406221003"
+    "title":
+      "en": "Health status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "129025006"
+    "title":
+      "en": "Activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "285854004"
+    "title":
+      "en": "Emotion"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405154001"
+    "title":
+      "en": "Level of suffering"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224362002"
+    "title":
+      "en": "Employment status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "439812008"
+    "title":
+      "en": "Number of hours worked per week"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "399651003"
+    "title":
+      "en": "Date of report"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "278977008"
+    "title":
+      "en": "Human immunodeficiency virus status (observable entity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266918002"
+    "title":
+      "en": "Tobacco smoking consumption"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "443846001"
+    "title":
+      "en": "Detail of history of travel"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "408864009"
+    "title":
+      "en": "Vaccination status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "304251008"
+    "title":
+      "en": "Resuscitation status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "364320009"
+    "title":
+      "en": "Pregnancy observable"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "184099003"
+    "title":
+      "en": "Date of birth"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "763264000"
+    "title":
+      "en": "Canadian Study of Health and Aging Clinical Frailty Scale score"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "27113001"
+    "title":
+      "en": "Body weight"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "50373000"
+    "title":
+      "en": "Body height measure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385349001"
+    "title":
+      "en": "Clinical stage"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "871552002"
+    "title":
+      "en": "Detection of Severe acute respiratory syndrome coronavirus 2 antibody"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "1240461000000109"
+    "title":
+      "en": "Measurement of Severe acute respiratory syndrome coronavirus 2 antibody"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "871556004"
+    "title":
+      "en": "Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus\
+        \ 2 in nasopharyngeal swab"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "404989005"
+    "title":
+      "en": "Ventilation status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "250774007"
+    "title":
+      "en": "Inspired oxygen concentration"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "27327002"
+    "title":
+      "en": "Hydrogen ion concentration"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "425795004"
+    "title":
+      "en": "Multiple organ dysfunction score"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "86290005"
+    "title":
+      "en": "Respiratory rate"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "271650006"
+    "title":
+      "en": "Diastolic blood pressure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "271649006"
+    "title":
+      "en": "Systolic blood pressure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "364075005"
+    "title":
+      "en": "Heart rate"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386725007"
+    "title":
+      "en": "Body temperature"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "431314004"
+    "title":
+      "en": "Peripheral oxygen saturation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "186034007"
+    "title":
+      "en": "Ethnicity / related nationality data"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "397635003"
+    "title":
+      "en": "Address"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "871562009"
+    "title":
+      "en": "Detection of Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "871562010"
+    "title":
+      "en": "Detection of Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225510008"
+    "title":
+      "en": "Self-image"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247581008"
+    "title":
+      "en": "Problem solving"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "413383002"
+    "title":
+      "en": "Ability to make decisions"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247794008"
+    "title":
+      "en": "Enjoyment of life"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225510009"
+    "title":
+      "en": "Self-image"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247791000"
+    "title":
+      "en": "Expression of emotions"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "256235009"
+    "title":
+      "en": "Exercise"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "71565002"
+    "title":
+      "en": "Personality, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "71565003"
+    "title":
+      "en": "Personality, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "71565004"
+    "title":
+      "en": "Personality, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "71565005"
+    "title":
+      "en": "Personality, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "71565006"
+    "title":
+      "en": "Personality, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406646006"
+    "title":
+      "en": "Incubation period"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224285004"
+    "title":
+      "en": "Education and schooling detail"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "230112002"
+    "title":
+      "en": "Convenience food intake"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "184102003"
+    "title":
+      "en": "Patient postal code"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363791007"
+    "title":
+      "en": "General appearance of patient"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "18480004"
+    "title":
+      "en": "Libido, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405046000"
+    "title":
+      "en": "Level of loneliness"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405205002"
+    "title":
+      "en": "Family health status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405200007"
+    "title":
+      "en": "Family social climate"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405083000"
+    "title":
+      "en": "Healthcare decision making"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286440006"
+    "title":
+      "en": "Ability to obtain food"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224210002"
+    "title":
+      "en": "Housing ownership and tenure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "870688007"
+    "title":
+      "en": "Ability to participate in community social life"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "33911006"
+    "title":
+      "en": "Food appetite, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "33911007"
+    "title":
+      "en": "Food appetite, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "258158006"
+    "title":
+      "en": "Sleep, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272387007"
+    "title":
+      "en": "Domestic activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "50360004"
+    "title":
+      "en": "Reading"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "14468000"
+    "title":
+      "en": "Sports activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "229918000"
+    "title":
+      "en": "Food and drink intake"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272387008"
+    "title":
+      "en": "Domestic activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272387009"
+    "title":
+      "en": "Domestic activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2781000175105"
+    "title":
+      "en": "Video, television or computer screen time"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300749002"
+    "title":
+      "en": "Ability to perform gardening activities"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "129006008"
+    "title":
+      "en": "Walking"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300813005"
+    "title":
+      "en": "Ability to care for pet"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300761005"
+    "title":
+      "en": "Ability to perform creative activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300761006"
+    "title":
+      "en": "Ability to perform creative activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300761007"
+    "title":
+      "en": "Ability to perform creative activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307124006"
+    "title":
+      "en": "Ability to write"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247642000"
+    "title":
+      "en": "Thought process"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247642001"
+    "title":
+      "en": "Thought process"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "258154008"
+    "title":
+      "en": "Washing hands, function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "129018004"
+    "title":
+      "en": "Traveling"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286747008"
+    "title":
+      "en": "Level of egocentricity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "405052004"
+    "title":
+      "en": "Level of stress"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2781000175103"
+    "title":
+      "en": "Video, television or computer screen time"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2781000175104"
+    "title":
+      "en": "Video, television or computer screen time"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "finding"
+  "title":
+    "en": "Finding"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "309370004"
+    "title":
+      "en": "Consent status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365458004"
+    "title":
+      "en": "Education and/or schooling finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "15863006"
+    "title":
+      "en": "Conflict"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "160932005"
+    "title":
+      "en": "Financial problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "429019009"
+    "title":
+      "en": "Finding related to biological sex"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "444316004"
+    "title":
+      "en": "Seasonal allergy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "25064002"
+    "title":
+      "en": "Headache"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386661006"
+    "title":
+      "en": "Fever"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "49727002"
+    "title":
+      "en": "Cough"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "267036007"
+    "title":
+      "en": "Dyspnea"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "162397003"
+    "title":
+      "en": "Pain in throat"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "84229001"
+    "title":
+      "en": "Fatigue"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "36955009"
+    "title":
+      "en": "Loss of taste"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "404684003"
+    "title":
+      "en": "Clinical finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "1240581000000100"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2 detected"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "39104002"
+    "title":
+      "en": "Illness"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266956001"
+    "title":
+      "en": "Loss of job"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365542002"
+    "title":
+      "en": "Finding relating to changes in job"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247808006"
+    "title":
+      "en": "Anxiety about body function or health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "129874008"
+    "title":
+      "en": "Social interaction finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225706007"
+    "title":
+      "en": "Interpersonal relationship finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015004"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106020009"
+    "title":
+      "en": "Finding of activity exercise pattern"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "162221009"
+    "title":
+      "en": "Restlessness"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55929007"
+    "title":
+      "en": "Feeling irritable"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "267076002"
+    "title":
+      "en": "Feeling lonely"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "722499006"
+    "title":
+      "en": "Electronic cigarette user"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224134001"
+    "title":
+      "en": "Lives with children"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228003"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228004"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228005"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228006"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228007"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228008"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228009"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228010"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228011"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228012"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228013"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228014"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228015"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228016"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228017"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228018"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228019"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424228020"
+    "title":
+      "en": "Infection control status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365458002"
+    "title":
+      "en": "Education and/or schooling finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365458003"
+    "title":
+      "en": "Education and/or schooling finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607006"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607007"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607008"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607009"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607010"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607011"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607012"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607013"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607014"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55607015"
+    "title":
+      "en": "Problem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015005"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015006"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015007"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015008"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015009"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015010"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015011"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015012"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015013"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015014"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015015"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015016"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015017"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "79015018"
+    "title":
+      "en": "Worried"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "61372001"
+    "title":
+      "en": "Aggressive behavior"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233009"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233010"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233011"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233012"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233013"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233014"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233015"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233016"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233017"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233018"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233019"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233020"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233021"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233022"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233023"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233024"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233025"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233026"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233027"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233028"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233029"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233030"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233031"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233032"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233033"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233034"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233035"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233036"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233037"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "118233038"
+    "title":
+      "en": "Finding of activity of daily living"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810004"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810005"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810006"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810007"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810008"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810009"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810010"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810011"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "707810012"
+    "title":
+      "en": "Cares for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "185333000"
+    "title":
+      "en": "Appointment canceled by doctor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "185332005"
+    "title":
+      "en": "Appointment canceled by patient"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "301729002"
+    "title":
+      "en": "Difficulty performing laboring activities"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "88598008"
+    "title":
+      "en": "Impaired social interaction"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "40226000"
+    "title":
+      "en": "Impairment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224407007"
+    "title":
+      "en": "Works at home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224462003"
+    "title":
+      "en": "Suspended from work"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "160934006"
+    "title":
+      "en": "Financial circumstances change (finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "160906004"
+    "title":
+      "en": "Sudden financial gain"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "276078007"
+    "title":
+      "en": "Business ceased - personal"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "276077002"
+    "title":
+      "en": "Business ceased - financial"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "105497000"
+    "title":
+      "en": "Threat of dismissal"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "308532005"
+    "title":
+      "en": "Influenza vaccination status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "310577003"
+    "title":
+      "en": "Pneumococcal immunization status"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365853002"
+    "title":
+      "en": "Imaging finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "444932008"
+    "title":
+      "en": "Dependence on ventilator"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "36955009"
+    "title":
+      "en": "Loss of taste"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "21522001"
+    "title":
+      "en": "Abdominal pain"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "40917007"
+    "title":
+      "en": "Clouded consciousness"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "62315008"
+    "title":
+      "en": "Diarrhea"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422587007"
+    "title":
+      "en": "Nausea"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "426000000"
+    "title":
+      "en": "Fever greater than 100.4 Fahrenheit / 38\xC2\xB0 Celsius"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "418799008"
+    "title":
+      "en": "Finding reported by subject or history provider"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "162465004"
+    "title":
+      "en": "Symptom severity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224951007"
+    "title":
+      "en": "Mature personality"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "281694009"
+    "title":
+      "en": "Finding of at risk"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "130989002"
+    "title":
+      "en": "Sleep deprivation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73595000"
+    "title":
+      "en": "Stress"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "112080002"
+    "title":
+      "en": "Cheerful mood"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "420038007"
+    "title":
+      "en": "Feeling unhappy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "288545008"
+    "title":
+      "en": "Showing emotion"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365926000"
+    "title":
+      "en": "Finding of problem solving"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365564006"
+    "title":
+      "en": "Social group finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365564007"
+    "title":
+      "en": "Social group finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286744001"
+    "title":
+      "en": "Character trait finding of level of optimism"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286819004"
+    "title":
+      "en": "Character trait finding of self-sufficiency"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286819005"
+    "title":
+      "en": "Character trait finding of self-sufficiency"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286739008"
+    "title":
+      "en": "Character trait finding of task completion"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735002"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735003"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735004"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735005"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735006"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286735007"
+    "title":
+      "en": "Character trait finding of affective stability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286709003"
+    "title":
+      "en": "Character trait finding of level of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286709004"
+    "title":
+      "en": "Character trait finding of level of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286758004"
+    "title":
+      "en": "Character trait finding of personal organization"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "288802005"
+    "title":
+      "en": "Does use humor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225029009"
+    "title":
+      "en": "Acceptance stage of grief"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225031000"
+    "title":
+      "en": "Denial stage of grief"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225027006"
+    "title":
+      "en": "Reflecting stage of grief"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225027007"
+    "title":
+      "en": "Reflecting stage of grief"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "423797009"
+    "title":
+      "en": "Inadequate healthcare provision"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "105524003"
+    "title":
+      "en": "Disturbance in life pattern associated with travel"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "105524004"
+    "title":
+      "en": "Disturbance in life pattern associated with travel"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422650009"
+    "title":
+      "en": "Social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422650010"
+    "title":
+      "en": "Social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422650011"
+    "title":
+      "en": "Social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422650012"
+    "title":
+      "en": "Social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "737352000"
+    "title":
+      "en": "Difficulty with performing work activities"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266956002"
+    "title":
+      "en": "Loss of job"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286424008"
+    "title":
+      "en": "Unable to cater for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286424009"
+    "title":
+      "en": "Unable to cater for self"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "160788005"
+    "title":
+      "en": "Marital separation, life event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "419099009"
+    "title":
+      "en": "Dead"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365275006"
+    "title":
+      "en": "General well-being finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365854008"
+    "title":
+      "en": "History finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "406552001"
+    "title":
+      "en": "Self management of mental health problems"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "423315002"
+    "title":
+      "en": "Limited social contact"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704373006"
+    "title":
+      "en": "Lack of trust"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704373007"
+    "title":
+      "en": "Lack of trust"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424582000"
+    "title":
+      "en": "Stress overload"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "716421004"
+    "title":
+      "en": "Able to manage stress"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422761005"
+    "title":
+      "en": "Difficulty managing stress"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704963003"
+    "title":
+      "en": "Adequate infection control measures"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704963004"
+    "title":
+      "en": "Adequate infection control measures"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "733817003"
+    "title":
+      "en": "Decreased social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "733817004"
+    "title":
+      "en": "Decreased social isolation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2541004"
+    "title":
+      "en": "Compulsive buying"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2541005"
+    "title":
+      "en": "Compulsive buying"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "300772000"
+    "title":
+      "en": "Difficulty performing play and sports activities"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365967005"
+    "title":
+      "en": "Finding of alcohol intake"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "397710003"
+    "title":
+      "en": "Did not attend outpatient appointment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "108329005"
+    "title":
+      "en": "Social context finding"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266957005"
+    "title":
+      "en": "Business worries"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266957006"
+    "title":
+      "en": "Business worries"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286445001"
+    "title":
+      "en": "Difficulty obtaining food"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73438004"
+    "title":
+      "en": "Unemployed"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "224519002"
+    "title":
+      "en": "Problem with informal caregiver"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "713566001"
+    "title":
+      "en": "Lack of interest"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307077003"
+    "title":
+      "en": "Feeling hopeless"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424196004"
+    "title":
+      "en": "Feeling nervous"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "102894008"
+    "title":
+      "en": "Feeling calm"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "276301007"
+    "title":
+      "en": "Increased energy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "54038000"
+    "title":
+      "en": "Insecurity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225010003"
+    "title":
+      "en": "Feeling a failure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365452001"
+    "title":
+      "en": "Finding of sense of purpose"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "83765003"
+    "title":
+      "en": "Boredom"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "414254005"
+    "title":
+      "en": "Finding of frequency of sexual activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225504008"
+    "title":
+      "en": "High self-esteem"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704373005"
+    "title":
+      "en": "Lack of trust"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247892001"
+    "title":
+      "en": "Self-depreciation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "281694010"
+    "title":
+      "en": "Finding of at risk"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "281694011"
+    "title":
+      "en": "Finding of at risk"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225795001"
+    "title":
+      "en": "Is informed"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225795002"
+    "title":
+      "en": "Is informed"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225795003"
+    "title":
+      "en": "Is informed"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "704963005"
+    "title":
+      "en": "Adequate infection control measures"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424133005"
+    "title":
+      "en": "Inadequate infection control measures"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2541006"
+    "title":
+      "en": "Compulsive buying"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "2541007"
+    "title":
+      "en": "Compulsive buying"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286819006"
+    "title":
+      "en": "Character trait finding of self-sufficiency"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286819007"
+    "title":
+      "en": "Character trait finding of self-sufficiency"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365409001"
+    "title":
+      "en": "Finding of level of extraversion"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "365372007"
+    "title":
+      "en": "Finding related to ability to perform creative activity"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "286845008"
+    "title":
+      "en": "Tends to be critical of others"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "17284008"
+    "title":
+      "en": "Pornographic stimulation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225648009"
+    "title":
+      "en": "Optimistic"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "247799003"
+    "title":
+      "en": "Pessimistic"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "environment"
+  "title":
+    "en": "Environment"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "264362003"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362004"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362005"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "288520005"
+    "title":
+      "en": "City environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362006"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362007"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362008"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362009"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362010"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362011"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362012"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362013"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362014"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362015"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362016"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362017"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362018"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362019"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362020"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362021"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "264362022"
+    "title":
+      "en": "Home"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "288500009"
+    "title":
+      "en": "Geographical environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272497004"
+    "title":
+      "en": "Residential environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "309904001"
+    "title":
+      "en": "Intensive care unit"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "276339004"
+    "title":
+      "en": "Environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "285141008"
+    "title":
+      "en": "Work environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "288559001"
+    "title":
+      "en": "Ecological environment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "occupation"
+  "title":
+    "en": "Occupation"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "14679004"
+    "title":
+      "en": "Occupation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "14679005"
+    "title":
+      "en": "Occupation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "309343006"
+    "title":
+      "en": "Physician"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "309343007"
+    "title":
+      "en": "Physician"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "158965000"
+    "title":
+      "en": "Medical practitioner"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "158965001"
+    "title":
+      "en": "Medical practitioner"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "14406004"
+    "title":
+      "en": "Policeman"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223366009"
+    "title":
+      "en": "Healthcare professional"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "308408000"
+    "title":
+      "en": "Large machinery/plant work"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106524008"
+    "title":
+      "en": "Construction worker"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266016001"
+    "title":
+      "en": "Textile material worker"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "159681002"
+    "title":
+      "en": "Catering/personal services"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "307972006"
+    "title":
+      "en": "Education profession"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "265950004"
+    "title":
+      "en": "Professional scientist/engineer/technologist"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "158758004"
+    "title":
+      "en": "Management support professions"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106355001"
+    "title":
+      "en": "Sales worker"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "159049007"
+    "title":
+      "en": "Literary/artistic/sports occupation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106386007"
+    "title":
+      "en": "Agricultural animal husbandry/forestry worker, fisherman/hunter"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106331006"
+    "title":
+      "en": "Administrative/managerial worker"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106401004"
+    "title":
+      "en": "Production/related worker, transport equipment operator/laborer"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106254004"
+    "title":
+      "en": "Professional technical/related worker"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "266006009"
+    "title":
+      "en": "Food/drink processor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "106332004"
+    "title":
+      "en": "Legislative official/government administrator"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "265981008"
+    "title":
+      "en": "Security/protective services"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "organism"
+  "title":
+    "en": "Organism"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "840533007"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533008"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533009"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533010"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533011"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533012"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533013"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533014"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533015"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533016"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533017"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533018"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533019"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533020"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533021"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533022"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533023"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533024"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533025"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533026"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840533027"
+    "title":
+      "en": "Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "procedure"
+  "title":
+    "en": "Procedure"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "385888009"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888010"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888011"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888012"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888013"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888014"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888015"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888016"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888017"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888018"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888019"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888020"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385888021"
+    "title":
+      "en": "History taking, mental health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303009"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303010"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303011"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303012"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303013"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303014"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303015"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303016"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303017"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303018"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303019"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303020"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303021"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303022"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303023"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303024"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303025"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303026"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303027"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303028"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303029"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74303030"
+    "title":
+      "en": "Personality assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819005"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819006"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819007"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819008"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819009"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819010"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819011"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819012"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819013"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819014"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819015"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819019"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819020"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819021"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819022"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819023"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819024"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819025"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819026"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385819027"
+    "title":
+      "en": "Infection control assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053000"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053001"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053002"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053003"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053004"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053005"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053006"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053007"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053008"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053009"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053010"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053011"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053012"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458032"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458033"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458034"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458035"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458036"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458037"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458038"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458039"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053013"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053014"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053015"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053016"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053017"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053018"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053019"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053020"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053021"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053022"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053023"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841008"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841009"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841010"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841011"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841012"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841013"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841014"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841015"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841016"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841017"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841018"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841019"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841020"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710841021"
+    "title":
+      "en": "Assessment of anxiety"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386053024"
+    "title":
+      "en": "Evaluation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "705139001"
+    "title":
+      "en": "Assessment of physical health"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "391281002"
+    "title":
+      "en": "Mental health assessment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "32485007"
+    "title":
+      "en": "Hospital admission"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "170497006"
+    "title":
+      "en": "Isolation because of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "77248004"
+    "title":
+      "en": "Infection control procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840002"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840003"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840004"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840005"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840006"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840007"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840008"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840009"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840010"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840011"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840012"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840013"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840014"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840015"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840016"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840017"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840018"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840019"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840020"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840021"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840022"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840023"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840024"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840025"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840026"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840027"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840028"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840029"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840030"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840031"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840032"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840033"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840034"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840035"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840036"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "275840037"
+    "title":
+      "en": "Preventing spread of infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458031"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458040"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458041"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458042"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "77248005"
+    "title":
+      "en": "Infection control procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "77248006"
+    "title":
+      "en": "Infection control procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "77248007"
+    "title":
+      "en": "Infection control procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "77248008"
+    "title":
+      "en": "Infection control procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "399150003"
+    "title":
+      "en": "Polymerase chain reaction test for severe acute respiratory syndrome"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "277132007"
+    "title":
+      "en": "Therapeutic procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "40174006"
+    "title":
+      "en": "Isolation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385821000"
+    "title":
+      "en": "Infection control management"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "11429006"
+    "title":
+      "en": "Consultation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "709755006"
+    "title":
+      "en": "Liaising with physician"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "81266008"
+    "title":
+      "en": "Heart revascularization"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "53950000"
+    "title":
+      "en": "Respiratory therapy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "42284007"
+    "title":
+      "en": "Administration of vaccine product containing only live attenuated Mycobacterium\
+        \ bovis antigen"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "241540006"
+    "title":
+      "en": "Computed tomography of lungs"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "303931008"
+    "title":
+      "en": "Lung X-ray"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "88628008"
+    "title":
+      "en": "Ultrasonography of lung"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "55235003"
+    "title":
+      "en": "C-reactive protein measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "489004"
+    "title":
+      "en": "Ferritin measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "302787001"
+    "title":
+      "en": "Bilirubin measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "70648006"
+    "title":
+      "en": "D-dimer assay"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "69480007"
+    "title":
+      "en": "Gamma glutamyl transferase measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "45896001"
+    "title":
+      "en": "Aspartate aminotransferase measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "11274001"
+    "title":
+      "en": "Lactate dehydrogenase measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "105000003"
+    "title":
+      "en": "Troponin measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "104142005"
+    "title":
+      "en": "Measurement of total hemoglobin concentration in plasma specimen"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "70901006"
+    "title":
+      "en": "Creatinine measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "412830006"
+    "title":
+      "en": "Fluid sample lactate measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "391558003"
+    "title":
+      "en": "Total white blood cell count"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74765001"
+    "title":
+      "en": "Lymphocyte count"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "30630007"
+    "title":
+      "en": "Neutrophil count"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "42525009"
+    "title":
+      "en": "Partial thromboplastin time, activated"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "61928009"
+    "title":
+      "en": "Platelet count"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "440685005"
+    "title":
+      "en": "Calculation of international normalized ratio"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "104485008"
+    "title":
+      "en": "Albumin measurement, serum"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "36288005"
+    "title":
+      "en": "Antithrombin III assay"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "22766004"
+    "title":
+      "en": "Interleukin-6 assay"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "250346004"
+    "title":
+      "en": "Fibrinogen measurement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "709541000"
+    "title":
+      "en": "Administration of antipyretic"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "18629005"
+    "title":
+      "en": "Administration of drug or medicament"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "58000006"
+    "title":
+      "en": "Patient discharge"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "108241001"
+    "title":
+      "en": "Dialysis procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "127788007"
+    "title":
+      "en": "Apheresis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "431182000"
+    "title":
+      "en": "Placing subject in prone position"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "233573008"
+    "title":
+      "en": "Extracorporeal membrane oxygenation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "167028004"
+    "title":
+      "en": "Measurement of arterial partial pressure of carbon dioxide"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "25579001"
+    "title":
+      "en": "Oxygen measurement, partial pressure, arterial"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385821001"
+    "title":
+      "en": "Infection control management"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "408992000"
+    "title":
+      "en": "Child care management"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "408992001"
+    "title":
+      "en": "Child care management"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458004"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386335003"
+    "title":
+      "en": "Infection protection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "40174007"
+    "title":
+      "en": "Isolation procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225214000"
+    "title":
+      "en": "Procedures relating to control, restraint, seclusion and segregation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "443693006"
+    "title":
+      "en": "Assessment of self medication"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458005"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223458006"
+    "title":
+      "en": "Informing"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386812007"
+    "title":
+      "en": "Safety precautions"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "event"
+  "title":
+    "en": "Event"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "272379006"
+    "title":
+      "en": "Event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272379007"
+    "title":
+      "en": "Event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272379008"
+    "title":
+      "en": "Event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "272379009"
+    "title":
+      "en": "Event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840546002"
+    "title":
+      "en": "Exposure to Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "419620001"
+    "title":
+      "en": "Death"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "702547000"
+    "title":
+      "en": "Exposure to coronavirus infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "702547001"
+    "title":
+      "en": "Exposure to coronavirus infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "105442005"
+    "title":
+      "en": "Death of companion"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "420008001"
+    "title":
+      "en": "Travel"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "710034000"
+    "title":
+      "en": "Exposure to Influenzavirus"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "773760007"
+    "title":
+      "en": "Traumatic event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "773760008"
+    "title":
+      "en": "Traumatic event"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "371772001"
+    "title":
+      "en": "Domestic abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "371772002"
+    "title":
+      "en": "Domestic abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "371772003"
+    "title":
+      "en": "Domestic abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "702547004"
+    "title":
+      "en": "Exposure to coronavirus infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "person"
+  "title":
+    "en": "Person"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "40683002"
+    "title":
+      "en": "Parent"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "133936004"
+    "title":
+      "en": "Adult"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "303071001"
+    "title":
+      "en": "Person in the family"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "303071002"
+    "title":
+      "en": "Person in the family"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "disorder"
+  "title":
+    "en": "Disorder"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "64572001"
+    "title":
+      "en": "Disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "19829001"
+    "title":
+      "en": "Disorder of lung"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "56265001"
+    "title":
+      "en": "Heart disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "90708001"
+    "title":
+      "en": "Kidney disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "414029004"
+    "title":
+      "en": "Disorder of immune function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73211009"
+    "title":
+      "en": "Diabetes mellitus"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "363346000"
+    "title":
+      "en": "Malignant neoplastic disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "3723001"
+    "title":
+      "en": "Arthritis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "128613002"
+    "title":
+      "en": "Seizure disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "119292006"
+    "title":
+      "en": "Disorder of gastrointestinal tract"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "95320005"
+    "title":
+      "en": "Disorder of skin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74732009"
+    "title":
+      "en": "Mental disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "66214007"
+    "title":
+      "en": "Substance abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "110359009"
+    "title":
+      "en": "Intellectual disability"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "35919005"
+    "title":
+      "en": "Pervasive developmental disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "1855002"
+    "title":
+      "en": "Developmental academic disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "128351009"
+    "title":
+      "en": "Eye infection"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "27624003"
+    "title":
+      "en": "Chronic disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "6142004"
+    "title":
+      "en": "Influenza"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "6142005"
+    "title":
+      "en": "Influenza"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "6142006"
+    "title":
+      "en": "Influenza"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "27624004"
+    "title":
+      "en": "Chronic disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "195967001"
+    "title":
+      "en": "Asthma"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "13645005"
+    "title":
+      "en": "Chronic obstructive lung disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "51615001"
+    "title":
+      "en": "Fibrosis of lung"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "70995007"
+    "title":
+      "en": "Pulmonary hypertension"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "190966007"
+    "title":
+      "en": "Extreme obesity with alveolar hypoventilation"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73430006"
+    "title":
+      "en": "Sleep apnea"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "78275009"
+    "title":
+      "en": "Obstructive sleep apnea syndrome"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "190905008"
+    "title":
+      "en": "Cystic fibrosis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "413839001"
+    "title":
+      "en": "Chronic lung disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "38341003"
+    "title":
+      "en": "Hypertensive disorder, systemic arterial"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "698247007"
+    "title":
+      "en": "Cardiac arrhythmia"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "84114007"
+    "title":
+      "en": "Heart failure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "399957001"
+    "title":
+      "en": "Peripheral arterial occlusive disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "53741008"
+    "title":
+      "en": "Coronary arteriosclerosis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "64586002"
+    "title":
+      "en": "Carotid artery stenosis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "49601007"
+    "title":
+      "en": "Disorder of cardiovascular system"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "197321007"
+    "title":
+      "en": "Steatosis of liver"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "19943007"
+    "title":
+      "en": "Cirrhosis of liver"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "10295004"
+    "title":
+      "en": "Chronic viral hepatitis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "235890007"
+    "title":
+      "en": "Autoimmune liver disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "328383001"
+    "title":
+      "en": "Chronic liver disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "24526004"
+    "title":
+      "en": "Inflammatory bowel disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "69896004"
+    "title":
+      "en": "Rheumatoid arthritis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "81573002"
+    "title":
+      "en": "Collagen disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "31996006"
+    "title":
+      "en": "Vasculitis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "36138009"
+    "title":
+      "en": "Congenital immunodeficiency disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "414029005"
+    "title":
+      "en": "Disorder of immune function"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "49049000"
+    "title":
+      "en": "Parkinson's disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "52448006"
+    "title":
+      "en": "Dementia"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "24700007"
+    "title":
+      "en": "Multiple sclerosis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "257277002"
+    "title":
+      "en": "Combined disorder of muscle AND peripheral nerve"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "84757009"
+    "title":
+      "en": "Epilepsy"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "37796009"
+    "title":
+      "en": "Migraine"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "69322001"
+    "title":
+      "en": "Psychotic disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "35489007"
+    "title":
+      "en": "Depressive disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "197480006"
+    "title":
+      "en": "Anxiety disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "128283000"
+    "title":
+      "en": "Chronic nervous system disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "709044004"
+    "title":
+      "en": "Chronic kidney disease"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "40845000"
+    "title":
+      "en": "Gastrointestinal ulcer"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "116223007"
+    "title":
+      "en": "Complication"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "422400008"
+    "title":
+      "en": "Vomiting"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "74732010"
+    "title":
+      "en": "Mental disorder"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840539006"
+    "title":
+      "en": "Disease caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840539007"
+    "title":
+      "en": "Disease caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840539008"
+    "title":
+      "en": "Disease caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840539009"
+    "title":
+      "en": "Disease caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "840539010"
+    "title":
+      "en": "Disease caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "119751000146104"
+    "title":
+      "en": "Fever caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "1240541000000100"
+    "title":
+      "en": "Infection of upper respiratory tract caused by Severe acute respiratory\
+        \ syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "119981000146107"
+    "title":
+      "en": "Dyspnea caused by Severe acute respiratory syndrome coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "ethnic_group"
+  "title":
+    "en": "Ethnic_Group"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "372148003"
+    "title":
+      "en": "Ethnic group"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "situation"
+  "title":
+    "en": "Situation"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "840544004"
+    "title":
+      "en": "Suspected disease caused by Severe acute respiratory coronavirus 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "292508471000118976"
+    "title":
+      "en": "History of disease caused by Severe acute respiratory syndrome coronavirus\
+        \ 2"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73701000119109"
+    "title":
+      "en": "Influenza vaccination given"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "170337005"
+    "title":
+      "en": "Pneumococcal vaccination given"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "399211009"
+    "title":
+      "en": "History of myocardial infarction"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "161663000"
+    "title":
+      "en": "History of being a tissue or organ recipient"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "440140008"
+    "title":
+      "en": "History of cerebrovascular accident with residual deficit"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "429993008"
+    "title":
+      "en": "History of cerebrovascular accident without residual deficits"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "313216003"
+    "title":
+      "en": "History of sexual abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "313217007"
+    "title":
+      "en": "History of emotional abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "313215004"
+    "title":
+      "en": "History of physical abuse"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "qualifier_value"
+  "title":
+    "en": "Qualifier_Value"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "260413007"
+    "title":
+      "en": "None"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "161028006"
+    "title":
+      "en": "School meals free"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "89925002"
+    "title":
+      "en": "Canceled"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "260388006"
+    "title":
+      "en": "No status change"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "734000001"
+    "title":
+      "en": "Biological sex"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "8319008"
+    "title":
+      "en": "Principal diagnosis"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "physical_object"
+  "title":
+    "en": "Physical_Object"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "706692004"
+    "title":
+      "en": "Computer"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "261352009"
+    "title":
+      "en": "Face mask"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "109190001"
+    "title":
+      "en": "Virus test kit"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "314869001"
+    "title":
+      "en": "Audio and visual equipment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "314869000"
+    "title":
+      "en": "Audio and visual equipment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "314869002"
+    "title":
+      "en": "Audio and visual equipment"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "record_artifact"
+  "title":
+    "en": "Record_Artifact"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "703852005"
+    "title":
+      "en": "Narrative comment section"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "social_concept"
+  "title":
+    "en": "Social_Concept"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "385436007"
+    "title":
+      "en": "Population"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "35359004"
+    "title":
+      "en": "Family"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "attribute"
+  "title":
+    "en": "Attribute"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "385438008"
+    "title":
+      "en": "Source of information"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "medicinal_product"
+  "title":
+    "en": "Medicinal_Product"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "1142178009"
+    "title":
+      "en": "Vaccine product containing Severe acute respiratory syndrome coronavirus\
+        \ 2 antigen or Severe acute respiratory syndrome coronavirus 2 messenger ribonucleic\
+        \ acid"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "413591007"
+    "title":
+      "en": "Product containing atazanavir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "424096001"
+    "title":
+      "en": "Product containing darunavir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "14728000"
+    "title":
+      "en": "Product containing chloroquine"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "83490000"
+    "title":
+      "en": "Product containing hydroxychloroquine"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "96138006"
+    "title":
+      "en": "Product containing ivermectin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "134573001"
+    "title":
+      "en": "Product containing lopinavir and ritonavir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "78025001"
+    "title":
+      "en": "Product containing ganciclovir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "386142008"
+    "title":
+      "en": "Product containing oseltamivir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "870518005"
+    "title":
+      "en": "Product containing remdesivir"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "35063004"
+    "title":
+      "en": "Product containing ribavirin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "444649004"
+    "title":
+      "en": "Product containing tocilizumab"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "763522001"
+    "title":
+      "en": "Product containing sarilumab"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "703779004"
+    "title":
+      "en": "Product containing ruxolitinib"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "73133000"
+    "title":
+      "en": "Product containing colchicine"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "88519001"
+    "title":
+      "en": "Product containing calcifediol"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "764877006"
+    "title":
+      "en": "Product containing zinc"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "398738008"
+    "title":
+      "en": "Product containing argatroban"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "108992003"
+    "title":
+      "en": "Product containing danaparoid"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "substance"
+  "title":
+    "en": "Substance"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "418752001"
+    "title":
+      "en": "Procalcitonin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "414798009"
+    "title":
+      "en": "N-terminal pro-B-type natriuretic peptide"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "414500009"
+    "title":
+      "en": "Substance with serine protease inhibitor mechanism of action"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "112133008"
+    "title":
+      "en": "Immunoglobulin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "372877000"
+    "title":
+      "en": "Heparin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "59488002"
+    "title":
+      "en": "Phenprocoumon"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "372636002"
+    "title":
+      "en": "Direct acting anticoagulant"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "372862008"
+    "title":
+      "en": "Anticoagulant"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "373333006"
+    "title":
+      "en": "Stimulant"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "product"
+  "title":
+    "en": "Product"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "768759001"
+    "title":
+      "en": "Product containing steroid"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "770396008"
+    "title":
+      "en": "Product containing pyrazine"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "84879009"
+    "title":
+      "en": "Human plasma, blood product"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "416587008"
+    "title":
+      "en": "Product containing calcineurin inhibitor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "416897008"
+    "title":
+      "en": "Product containing tumor necrosis factor alpha inhibitor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "430817009"
+    "title":
+      "en": "Product containing interleukin 1 receptor antagonist"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "768865007"
+    "title":
+      "en": "Product containing interferon"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "41549009"
+    "title":
+      "en": "Product containing angiotensin-converting enzyme inhibitor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "87233003"
+    "title":
+      "en": "Product containing low molecular weight heparin"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "773388004"
+    "title":
+      "en": "Product containing platelet aggregation inhibitor"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "regime/therapy"
+  "title":
+    "en": "Regime/Therapy"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "243114000"
+    "title":
+      "en": "Support"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225365006"
+    "title":
+      "en": "Care regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318000"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318001"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318002"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318003"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318004"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318005"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318006"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318007"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318008"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318009"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318010"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318011"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318012"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318013"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318014"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318015"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318016"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225318017"
+    "title":
+      "en": "Personal and environmental management regime"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "239516002"
+    "title":
+      "en": "Monitoring procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "239516003"
+    "title":
+      "en": "Monitoring procedure"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225317005"
+    "title":
+      "en": "Restriction of movement"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "225360001"
+    "title":
+      "en": "Skin care"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "133921002"
+    "title":
+      "en": "Emotional support"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "385722003"
+    "title":
+      "en": "Coping support"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "421175005"
+    "title":
+      "en": "Restriction of visitors"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "421175006"
+    "title":
+      "en": "Restriction of visitors"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "geographic_location"
+  "title":
+    "en": "Geographic_Location"
+  "description":
+    "en": "CHANGE TEXT"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "223725007"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725008"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725009"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725010"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725011"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725012"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725013"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725014"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725015"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725016"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725017"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725018"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725019"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725020"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725021"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223725022"
+    "title":
+      "en": "Part of country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223369002"
+    "title":
+      "en": "Country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223369003"
+    "title":
+      "en": "Country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223369004"
+    "title":
+      "en": "Country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "223369005"
+    "title":
+      "en": "Country"
+    "description": {}
+    "attributes": {}
+    "keywords": {}
+    "terms": []
