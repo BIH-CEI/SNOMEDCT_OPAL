@@ -8,7 +8,7 @@ from os import walk
 Path("Output").mkdir(parents=True, exist_ok=True)
 
 # Value 1 = Excel File | Value 2 = CSV + YAML
-mode = 2
+mode = 1
 
 Semantic_Tag_Columns = None
 FSN_Columns = None
@@ -66,13 +66,13 @@ if mode == 1:
         excel_writer = StyleFrame.ExcelWriter(f"Output/{name}")
         sf = StyleFrame(excel_file)
         sf.apply_headers_style(Styler(bold=False, horizontal_alignment='left'))
-        sf.to_excel(excel_writer=excel_writer, index=False, best_fit=col_list, sheet_name="Variables")
+        sf.to_excel(excel_writer=excel_writer, index=False, best_fit=None, sheet_name="Variables")
         file.pop("Variables")
         for x in file:
             sf = StyleFrame(file[x])
             col_list = file[x].columns.tolist()
             sf.apply_headers_style(Styler(bold=False, horizontal_alignment='left'))
-            sf.to_excel(excel_writer=excel_writer, index=False, best_fit=col_list, sheet_name=x)
+            sf.to_excel(excel_writer=excel_writer, index=False, best_fit=None, sheet_name=x)
         excel_writer.save()
 elif mode == 2:
     _, _, files = next(walk("Files"))
