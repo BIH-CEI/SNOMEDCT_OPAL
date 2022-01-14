@@ -24,7 +24,6 @@ class csv2yaml:
             df = self.snomed_data[[f"SCTID_{index}", f"FSN_{index}", f"Semantic_Tag_{index}"]]
             df = df.dropna()
             df.columns = ["SCTID", "FSN", "Semantic_Tag"]
-            print("asd")
             dataframes.append(df)
 
         print(dataframes)
@@ -88,7 +87,7 @@ class csv2yaml:
             "license": "Member",
             "vocabularies": self.fill_vocabularies()
         }
-        with open("output.yaml", 'w') as yamlfile:
+        with open("Output/Output_YAML.yaml", 'w') as yamlfile:
             yml.dump(data,
                      yamlfile,
                      default_flow_style=False,

@@ -214,5 +214,4 @@ fabric.properties
 
 .idea/
 .DS_Store
-/Files
-/Output
+/Output/*
