@@ -90,6 +90,9 @@ elif mode == 2:
     _, _, files = next(walk("Files"))
     excel_dfs = []
     for file_name in files:
+        _, file_extension = os.path.splitext(f"Files/{file_name}")
+        if file_extension != ".xlsx":
+            break
         excel_df = edit_excel(f"Files/{file_name}")
         for tag in FSN_Columns:
             index = tag.split("_")[1]
