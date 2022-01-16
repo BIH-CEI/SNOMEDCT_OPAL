@@ -1,4 +1,6 @@
 # Imports
+import os.path
+
 from styleframe import StyleFrame, Styler
 from csv2yaml import csv2yaml
 from pathlib import Path
@@ -10,7 +12,7 @@ import numpy as np
 Path("Output").mkdir(parents=True, exist_ok=True)
 
 # Value 1 = Excel File | Value 2 = CSV + YAML
-mode = 2
+mode = 1
 
 Semantic_Tag_Columns = None
 FSN_Columns = None
@@ -61,6 +63,9 @@ if mode == 1:
     name = None
     # Loop over all the files
     for file_name in files:
+        _, file_extension = os.path.splitext(f"Files/{file_name}")
+        if file_extension != ".xlsx":
+            break
         file_df = pd.read_excel(f"Files/{file_name}", sheet_name=None)
         excel_file = edit_excel(f"Files/{file_name}")
         # Write to Excel file
